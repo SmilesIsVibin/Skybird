@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbf5c6dca4739a945ac3fc4eb0106421, type: 3}
+  m_Name: DarkShip
+  m_EditorClassIdentifier: 
+  shipName: Dark Ship
+  shipLevel: 1
+  shipAppearance: {fileID: 21300000, guid: c587fe37cce36494c84728833e358034, type: 3}
+  shipBaseHealth: 8
